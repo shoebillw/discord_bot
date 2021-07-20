@@ -5,6 +5,7 @@
 
 利用朋友的形象建立的discord機器人，可以祝人生日快樂，會直接在別人的留言區打麻將
 
+![image](https://user-images.githubusercontent.com/80030514/126395621-3773677b-6710-4326-8beb-591a00894dfc.png)
 
 ## 指令簡介
 
